@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloWorld_HW1</string>
+    <string name="welcometext">Hello World!</string>
+    <string name="moaath_alrajab">Moaath Alrajab</string>
 </resources>
